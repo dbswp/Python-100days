@@ -1,3 +1,5 @@
+# 중첩 if문과 다중 if문을 사용하여 피자주문 실습 완료하기
+
 print("Welcome to Python Pizza Deliveries!")
 size = input("What size pizza do you want? S, M, L: ")
 pepperoni = input("do you want pepperoni on your pizza? Y, N: ")
